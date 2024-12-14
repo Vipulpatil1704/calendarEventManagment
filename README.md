@@ -37,5 +37,5 @@ npm run dev
 Visit http://localhost:3000 to access the app.
 
 ## Link to Deployed App
-[Deployed Link]()
+[Deployed Link](https://calendar-event-managment.vercel.app/)
 
